@@ -1,0 +1,37 @@
+.App {
+  color:rgb(208, 239, 252);
+  text-align: center;  
+}
+
+h1 {color: rgb(254, 255, 181);
+    font-size: 40px;
+}
+
+h2 {
+  color:rgb(255, 255, 255); 
+  font-size:26px;
+}
+
+h3 {
+  color:rgb(82, 255, 134);
+  font-weight:normal;
+  font-size:22px;
+}
+
+h4 {
+  color:rgb(208, 239, 252);
+  font-size: 18px;
+}
+
+input {
+  width:250px;
+  border-radius:6px;
+  display: inline block;
+  text-align: center;
+  margin:10px;
+}
+
+p {
+  font-size: 14px;
+  color:white;
+}

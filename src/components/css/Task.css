@@ -1,0 +1,33 @@
+.Task {
+    display:inline;
+}
+
+.task_complete {
+    text-decoration: line-through;
+    color:rgb(208, 239, 252);
+    font-size: 16px;
+}
+
+.task_incomplete {
+    text-decoration: none;
+    color:rgb(208, 239, 252);
+    font-size: 16px;   
+}
+
+button {
+    margin:10px; 
+    width:70px; 
+    height:22px; 
+    font-size:11px; 
+    color:white; 
+    background:black;
+    display: inline-block;
+}
+
+h4 {
+    cursor:pointer;
+    font-size: 16px;
+    display: inline;
+}
+
+

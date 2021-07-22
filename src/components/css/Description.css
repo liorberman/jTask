@@ -1,0 +1,7 @@
+textarea {
+    margin:10px;
+    width:300px;
+    height:100px;
+    background-color: rgb(224, 246, 255);
+    display: inline;
+}
